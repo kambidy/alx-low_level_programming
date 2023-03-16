@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- * main - commenting the function
+ * main - prints
+ * description - prints values
+ * return : 0
  */
-int main(void)
+void main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-/*
- * return - commented
- */
 return (0);
 }
