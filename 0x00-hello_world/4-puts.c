@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - prints
- * description - prints values
- * return : 0
+ * main - prints a value
+ * Description: prints values of a string
+ * Return: it returns nothing
  */
-void main(void)
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
