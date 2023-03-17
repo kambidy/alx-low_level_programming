@@ -4,7 +4,7 @@
 
 /**
  * main - Prints alphabets.
- * Return: returns 0 
+ * Return: returns zero
  */
 int main(void)
 {
