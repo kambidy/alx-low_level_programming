@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+#include "main.h"
 /*
  * main - displays text
  * Description: prints _putcher
@@ -8,8 +7,17 @@
 
 int main(void)
 {
-	printf("_putcher");
+	_putcher("_");
+	_putcher("p");
+	_putcher("u");
+	_putcher("t");
+	_putcher("c");
+	_putcher("h");
+	_putcher("a");
+	_putcher("r");
+	_putcher("\n");
+	
 
-	return 0;
+	return (0);
 
 }
