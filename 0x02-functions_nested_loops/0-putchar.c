@@ -1,10 +1,10 @@
 #include "main.h"
-/*
- *  main - displays text
- *  Description: prints _putcher
- *  Return: returns 0
- */
 
+/**
+ * main - Prints alphabets.
+ *
+ * Return: returns 0 (Success)
+ */
 int main(void)
 {
 	_putchar('_');
