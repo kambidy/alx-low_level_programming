@@ -6,7 +6,7 @@
  * Description: Description dem.
  * Return: returns 0
  */
-	int jack_bauer(void)
+	void jack_bauer(void)
 	{
 		int i, j;
 
@@ -29,5 +29,4 @@
 			}
 			i++;
 		}
-		return (0);
 	}
