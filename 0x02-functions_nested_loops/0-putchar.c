@@ -1,8 +1,8 @@
 #include "main.h"
 /*
- * main - displays text
- * Description: prints _putcher
- * Return: returns 0
+ *  main - displays text
+ *  Description: prints _putcher
+ *  Return: returns 0
  */
 
 int main(void)
