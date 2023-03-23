@@ -1,18 +1,14 @@
 #include "main.h"
-
 /**
- * main - Prints alphabets.
- *
- * Return: returns 0 (Success)
+ * positive_or_negative - checks if a number is positive or negative
+ * @i: the number to be checked
+ * Return: 0
  */
-
-
-int main(void)
+void positive_or_negative(int i)
 {
-        int i;
-
-        i = 0;
-        positive_or_negative(i);
-
+        if (i < 0)
+        printf("%d is negative", i);
+        else
+        printf("%d is positive", i);
         return (0);
 }
