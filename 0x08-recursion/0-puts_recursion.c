@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * _puts_recursions - check the code
- *
+ * _puts_recursion - check the code
+ *Decription: describes func
+ *@s: character inputed
  * Return: Always 0.
  */
-void _puts_recursion(char *s){
-  printf("%s\n", s);
-  return 0;
+void _puts_recursion(char *s)
+{
+	printf("%s\n", s);
 }
