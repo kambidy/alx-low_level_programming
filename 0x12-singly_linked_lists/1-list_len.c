@@ -17,4 +17,8 @@ size_t list_len(const list_t *h)
 		h = h->next;
 	}
 	return (n);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 977db24706100f7d11bfd4efb11c8c47a328000f

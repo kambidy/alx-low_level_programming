@@ -16,4 +16,8 @@ void free_list(list_t *head)
 		free(head);
 		head = temp;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 977db24706100f7d11bfd4efb11c8c47a328000f
