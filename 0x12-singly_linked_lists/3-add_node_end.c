@@ -38,8 +38,4 @@ list_t *add_node_end(list_t **head, const char *str)
 	temp->next = new;
 
 	return (new);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 977db24706100f7d11bfd4efb11c8c47a328000f
